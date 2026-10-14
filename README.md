@@ -4,3 +4,4 @@ Hi, I'm Rouhin Ghosh (SRN: R25EJ124), a B.Tech student in Computer Science and I
 
 - Learning: C++ and data structures & algorithms
 - Interested in: AI/ML and computer vision
+- Goal: complete Azure AI Fundamentals and become a Microsoft Learn Student Ambassador
